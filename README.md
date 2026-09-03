@@ -17,16 +17,16 @@
 
 ## The Problem
 
-Medical AI models make predictions, but clinicians won't trust what they can't understand. A heatmap alone doesn't earn clinical trust — you need **why** the model decided what it decided.
+Medical AI models make predictions, but clinicians won't trust what they can't understand. A heatmap alone doesn't earn clinical trust, you need **why** the model decided what it decided.
 
 ## The Solution
 
 This toolkit provides **multi-layered explainability** for medical imaging models:
 
-- **Grad-CAM / Grad-CAM++** — visual attention overlays on predictions
-- **SHAP feature attribution** — for tabular + imaging fusion models
-- **Concept-based explanations** — beyond pixel heatmaps, into clinical reasoning
-- **Audit-ready reports** — exportable for regulatory and clinical review
+- **Grad-CAM / Grad-CAM++**: visual attention overlays on predictions
+- **SHAP feature attribution**: for tabular + imaging fusion models
+- **Concept-based explanations**: beyond pixel heatmaps, into clinical reasoning
+- **Audit-ready reports**: exportable for regulatory and clinical review
 
 ```
 Medical Image
@@ -89,4 +89,4 @@ Datasets (ISIC, breast imaging) are downloaded separately. See `docs/DATASETS.md
 
 ## Contact
 
-Dr. Lubna Aziz — engr.lubnaaziz@gmail.com — [Google Scholar](https://scholar.google.com/citations?user=Uu-CkiYAAAAJ)
+Dr. Lubna Aziz, engr.lubnaaziz@gmail.com, [Google Scholar](https://scholar.google.com/citations?user=Uu-CkiYAAAAJ)
