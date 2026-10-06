@@ -54,11 +54,11 @@ Medical Image
 
 ## Projects
 
-| Project | Domain | Paper |
-|---|---|---|
-| Breast Cancer Diagnosis | Transfer learning + XAI | Scientific Reports, 2025 |
-| Drug-Response Prediction | XAI for pharmacogenomics | NIH Pakistan |
-| ECG/CVD Analysis | Signal processing + interpretability | RAEng UK |
+| Project | Domain | Metric | Paper |
+|---|---|---|---|
+| Breast Cancer Diagnosis | Transfer learning + XAI | **95.3% AUC** | Scientific Reports, 2025 |
+| Drug-Response Prediction | XAI for pharmacogenomics | Clinical concordance | NIH Pakistan |
+| ECG/CVD Analysis | Signal processing + interpretability | Beat-level accuracy | RAEng UK |
 
 ## Quickstart
 

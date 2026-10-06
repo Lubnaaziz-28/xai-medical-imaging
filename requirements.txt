@@ -1,7 +1,10 @@
-torch
-pytorch-grad-cam
-shap
-scikit-learn
-opencv-python
-matplotlib
-jupyter
+tensorflow>=2.12
+numpy>=1.21
+pillow>=9.0
+scikit-learn>=1.3
+matplotlib>=3.7
+seaborn>=0.12
+dicom>=0.9
+pydicom>=2.4
+shap>=0.43
+grad-cam>=1.4
