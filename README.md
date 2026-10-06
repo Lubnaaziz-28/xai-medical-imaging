@@ -4,6 +4,7 @@
 
 ### Explainable AI That Clinicians Actually Trust
 
+[![CI](https://img.shields.io/github/actions/workflow/status/Lubnaaziz-28/xai-medical-imaging/ci.yml?logo=github&style=flat-square)]()
 [![Paper](https://img.shields.io/badge/Paper-Scientific_Reports_2025-0076D6?logo=readthedocs&logoColor=white)]()
 [![Python](https://img.shields.io/badge/Python-3.8+-yellow?logo=python&logoColor=white)]()
 [![TensorFlow](https://img.shields.io/badge/TensorFlow-2.x-FF6F00?logo=tensorflow&logoColor=white)]()
